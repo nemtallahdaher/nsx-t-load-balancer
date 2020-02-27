@@ -1,0 +1,11 @@
+poolid,algo,group,monitor,snatip,port
+ubuntu-pool-8090,ROUND_ROBIN,ubuntu-group,default-icmp-lb-monitor,10.8.2.51,8090
+ubuntu-pool-8091,ROUND_ROBIN,ubuntu-group,default-icmp-lb-monitor,10.8.2.51,8091
+ubuntu-pool-8092,ROUND_ROBIN,ubuntu-group,default-icmp-lb-monitor,10.8.2.51,8092
+ubuntu-pool-8093,ROUND_ROBIN,ubuntu-group,default-icmp-lb-monitor,10.8.2.51,8093
+ubuntu-pool-8094,ROUND_ROBIN,ubuntu-group,default-icmp-lb-monitor,10.8.2.51,8094
+ubuntu-pool-8095,ROUND_ROBIN,ubuntu-group,default-icmp-lb-monitor,10.8.2.51,8095
+ubuntu-pool-8096,ROUND_ROBIN,ubuntu-group,default-icmp-lb-monitor,10.8.2.51,8096
+ubuntu-pool-8097,ROUND_ROBIN,ubuntu-group,default-icmp-lb-monitor,10.8.2.51,8097
+ubuntu-pool-8098,ROUND_ROBIN,ubuntu-group,default-icmp-lb-monitor,10.8.2.51,8098
+ubuntu-pool-8099,ROUND_ROBIN,ubuntu-group,default-icmp-lb-monitor,10.8.2.51,8099
